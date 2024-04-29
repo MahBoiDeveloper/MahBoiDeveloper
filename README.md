@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Support me on Boosty](https://img.shields.io/badge/boosty-50₽-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 <!--
 **MahBoiDeveloper/MahBoiDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
