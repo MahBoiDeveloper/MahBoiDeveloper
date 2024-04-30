@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
-I'm a fan of [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) games and mods for them, who enjoys translating mods into Russian and helping to develop community modding tools, such as the [XNA CnCNet Client](https://github.com/CnCNet/xna-cncnet-client). Previously, I wrote a lot of articles for [CnCSeries.ru](https://cncseries.ru), which you can read [here](https://cncseries.ru/author/mah_boi/). Currently working on C&C: Generals — Zero Hour [Hotkey Editor](https://github.com/MahBoiDeveloper/GZHHotkeysEditor).
+I'm a fan of [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) games and mods for them, who enjoys translating mods into Russian and helping to develop community modding tools, such as the [XNA CnCNet Client](https://github.com/CnCNet/xna-cncnet-client). Previously, I wrote a lot of articles for [CnCSeries.ru](https://cncseries.ru), which you can read [here](https://cncseries.ru/author/mah_boi/). Currently working on C&C: Generals — Zero Hour [Hotkeys Editor](https://github.com/MahBoiDeveloper/GZHHotkeysEditor).
 
 Translated mods by me:
 1. [Twisted Insurrection](https://github.com/MahBoiTranslator/TwistedInsurrectionRu)
