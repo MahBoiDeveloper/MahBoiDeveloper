@@ -10,6 +10,10 @@ Translated mods by me:
 4. [Tiberium Essence](https://github.com/MahBoiTranslator/TiberiumEssenceRu) (see also [translatable maps](https://github.com/MahBoiTranslator/TiberiumEssenceTranslatableMaps))
 5. [Generals Evolution](https://github.com/MahBoiTranslator/GeneralsEvolutionRu) (see also [translatable maps](https://github.com/MahBoiTranslator/GeneralsEvolutionTranslatableMaps))
 
+Repositories with Cyrillic fonts:
+1. [Tiberian Sun](https://github.com/MahBoiDeveloper/RussianFontsForTiberianSun)
+2. [Red Alert 2](https://github.com/MahBoiDeveloper/FontsForRedAlert2)
+
 Also you can support me on my [Boosty](https://boosty.to/mah_boi).
 
 <!--
