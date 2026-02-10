@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
-I'm a fan of [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) games and mods for them, who enjoys translating mods into Russian and helping to develop community modding tools, such as the [XNA CnCNet Client](https://github.com/CnCNet/xna-cncnet-client). Previously, I used to write a lot of articles for [CnCSeries.ru](https://cncseries.ru/author/mah_boi/), but a new one will be uploaded to the [ModDB](https://www.moddb.com/members/mah-boi/articles). Currently I am working on [Hotkeys Editor](https://github.com/MahBoiDeveloper/GZHHotkeysEditor) for C&C: Generals — Zero Hour.
+I'm a fan of [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) games and mods, who enjoys translating mods into Russian and helping to develop community tools, such as the [XNA CnCNet Client](https://github.com/CnCNet/xna-cncnet-client). Currently working on [Hotkeys Editor](https://github.com/MahBoiDeveloper/GZHHotkeysEditor) for C&C: Generals — Zero Hour.
 
 |  | Translated mods | C&C Cyrillic font repos |
 |---|------------------------|-----------------------------------|
