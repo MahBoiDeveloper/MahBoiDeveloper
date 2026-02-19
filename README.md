@@ -13,4 +13,4 @@ I'm a fan of [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conqu
 |6. | [Red Alert 3 World](https://github.com/MahBoiDeveloper/RedAlert3World)      |                                                                                                                                                                                     |                                                                               |
 |7. | [Mental Omega World](https://github.com/MahBoiDeveloper/MentalOmegaWorld)   |                                                                                                                                                                                     |                                                                               |
 
-Also you can support me on my [Boosty](https://boosty.to/mah_boi).
+Also you can support me on [Boosty](https://boosty.to/mah_boi).
